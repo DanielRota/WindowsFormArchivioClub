@@ -1,0 +1,10 @@
+C:\Users\Utente\Documents\Informatica\FORMClubRota\bin\Debug\FORMClubRota.exe.config
+C:\Users\Utente\Documents\Informatica\FORMClubRota\bin\Debug\FORMClubRota.exe
+C:\Users\Utente\Documents\Informatica\FORMClubRota\bin\Debug\FORMClubRota.pdb
+C:\Users\Utente\Documents\Informatica\FORMClubRota\obj\Debug\FORMClubRota.csprojAssemblyReference.cache
+C:\Users\Utente\Documents\Informatica\FORMClubRota\obj\Debug\FORMClubRota.Form1.resources
+C:\Users\Utente\Documents\Informatica\FORMClubRota\obj\Debug\FORMClubRota.Properties.Resources.resources
+C:\Users\Utente\Documents\Informatica\FORMClubRota\obj\Debug\FORMClubRota.csproj.GenerateResource.cache
+C:\Users\Utente\Documents\Informatica\FORMClubRota\obj\Debug\FORMClubRota.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Documents\Informatica\FORMClubRota\obj\Debug\FORMClubRota.exe
+C:\Users\Utente\Documents\Informatica\FORMClubRota\obj\Debug\FORMClubRota.pdb
